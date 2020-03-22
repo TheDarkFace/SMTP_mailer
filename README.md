@@ -15,4 +15,4 @@ while you run the script you may find some issue in authentication, as well as y
 4.  On the left side for your window, select SECURITY.
 5.  Scroll down the page and TURN ON LESS SECURE APP ACCESS.
 
-That's it now you are ready to go.
+That's it, you are ready to go.
