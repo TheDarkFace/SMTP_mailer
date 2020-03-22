@@ -2,7 +2,7 @@
 This python script allows you to send emails to the desired person you want to communicate with.
 
 # Note
-REPLACE THE FOLLOWING:
+REPLACE THE FOLLOWING in mailer.py:
 1.  YOUR-EMAIL-ADDRESS@domain with your own genuine email address.
 2.  YOUR-PASSWORD with the password that is linked with the above email address.
 3.  RECIEVERS-EMAIL-ADDRESS@domain with the persons email address to whom you want send the mail.
