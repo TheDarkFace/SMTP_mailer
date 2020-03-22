@@ -1,8 +1,8 @@
 import smtplib
 
-sender = 'xxxxxxxxxx'
-pswd = "xxxxxxxxxxxx"
-reciever = 'xxxxxxxx'
+sender = 'YOUR-EMAIL-ADDRESS@domain'
+pswd = "YOUR-PASSWORD"
+reciever = 'RECIEVERS-EMAIL-ADDRESS@domain'
 
 message = """
 This message is for
